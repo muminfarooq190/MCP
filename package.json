@@ -1,0 +1,17 @@
+{
+  "name": "mental-health-mcp-server",
+  "version": "0.1.0",
+  "description": "Mental health support MCP server providing mood tracking, check-ins, and coping tools.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "mcp",
+    "mental-health",
+    "support"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs"
+}
